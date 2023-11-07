@@ -29,8 +29,8 @@ void getdata(Item &item) {
     item.setCost(c);
 }
 int main() {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P to enter number and cost of a class 'item' using getdata() and displaydata(). Write getdata() function outside the class item."<<endl;
     Item item1;
     // Call the getdata() function to set the data for item1

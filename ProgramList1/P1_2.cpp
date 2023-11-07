@@ -14,8 +14,8 @@ class Temp{
     }
 };
 int main(){
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+   cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P to convert Fahrenheit into Celsius using class."<<endl;
     Temp t1;
     t1.getF();

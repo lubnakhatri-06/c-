@@ -3,8 +3,8 @@
 using namespace std;
 
 int main() {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P to Make a Simple Calculator with the use of switch case."<<endl;
     char operation;
     double num1, num2;

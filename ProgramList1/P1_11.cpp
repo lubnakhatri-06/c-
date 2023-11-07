@@ -9,8 +9,8 @@ bool isVowel(char c) {
     return false;
     }
 int main() {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P To Find If A Character Is Vowel Or Consonant using function."<<endl;
     cout << "Enter a character: ";
     char ch; cin >> ch;

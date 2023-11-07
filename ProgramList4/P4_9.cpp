@@ -18,8 +18,8 @@ int add(const Number& num1, const Number& num2) {
     return num1.value + num2.value;
 }
 int main() {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P to calculate addition of two numbers using Friend function."<<endl;
     Number number1(5);
     Number number2(7);

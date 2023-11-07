@@ -10,8 +10,8 @@ public:
 };
 int MyClass::staticVar = 10; // Initialize the static variable
 int main() {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+   cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P to access static variable using scope resolution operator with using class."<<endl;
     cout << "Accessing static variable using the class name: " << MyClass::staticVar << endl;
     MyClass obj;

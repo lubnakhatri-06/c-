@@ -3,8 +3,8 @@
 using namespace std;
 void swap(int &,int &);
 int main(){
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P "<<endl;
     int x=1,r=2;
     cout<<"Before Swapping "<<x<<" & "<<r<<endl;

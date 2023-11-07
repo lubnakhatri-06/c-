@@ -20,8 +20,8 @@ public:
     }
 };
 int main() {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P that create a class – ‘Employee’ that has data members emp_id & emp_name and member function are getdata() [to input data] & putdata() [to output data]. Write a main function to create emp, an array of Empoyee objects. Accept and display the details of at least 10 employees."<<endl;
     const int numEmployees = 10;
     Employee employees[numEmployees];

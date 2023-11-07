@@ -3,8 +3,8 @@
 #include <iomanip> // Required for setfill and setw
 using namespace std;
 int main() {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P "<<endl;
     int number = 42;
     // Without setfill

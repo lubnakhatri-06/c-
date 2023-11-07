@@ -9,8 +9,8 @@ unsigned long long factorial(int n) {
     }
 }
 int main() {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P to find factorial of the given number with the use of function."<<endl;
     int number;
     cout << "Enter a non-negative integer: ";

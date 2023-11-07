@@ -9,8 +9,8 @@ struct student
 };
 int main()
 {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+   cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : Find out output of below program."<<endl;
     cout<<sizeof(student);
     return 0;

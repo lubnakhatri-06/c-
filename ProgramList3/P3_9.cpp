@@ -25,8 +25,8 @@ public:
     }
 };
 int main() {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P to create class Max with data member’s num_1 and num_2. Member function are input(), display(), largest(). (* Nesting of member functions: A member function can be called by using its name inside another member function of the same class. This is known as nesting of member function.)"<<endl;
     Max maxObject;
     // Call the input function to get values

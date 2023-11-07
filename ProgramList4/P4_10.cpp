@@ -14,8 +14,8 @@ public:
     }
 };
 int main() {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P to demonstrate use of Default Constructor."<<endl;
     MyClass obj1; // Create an object using the default constructor
     obj1.displayData(); // Display the data initialized by the default constructor

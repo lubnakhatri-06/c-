@@ -8,8 +8,8 @@ struct Student {
     double percentage;
 };
 int main() {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P that declares student structure with data members name, std, percentage. Take value for these data members and display it."<<endl;
     Student student;
     cout << "Enter student's name: ";

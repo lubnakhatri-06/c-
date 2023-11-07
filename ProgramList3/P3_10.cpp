@@ -24,8 +24,8 @@ public:
     }
 };
 int main() {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P using class to find maximum number from three numbers."<<endl;
     double n1, n2, n3;
     cout << "Enter three numbers: ";

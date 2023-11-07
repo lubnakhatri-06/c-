@@ -24,8 +24,8 @@ public:
     }
 };
 int main() {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : Create class product. Data members are product_id, product_name, unit_price. Member functions are getData(). [Getting input from user and assigning values to data members. ] and putData() [Display the product information.]. Call both member function for two objects."<<endl;
     Product product1, product2;
     cout << "Enter information for Product 1:" << endl;

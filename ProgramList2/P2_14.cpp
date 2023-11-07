@@ -6,8 +6,8 @@ inline double cube(double x) {
     return x * x * x;
 }
 int main() {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P "<<endl;
     double num;
     cout << "Enter a number: ";

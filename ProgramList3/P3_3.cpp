@@ -9,8 +9,8 @@ struct Employee {
     string emp_branch;
 };
 int main() {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P to declare structure of Employee with data members like emp_name, emp_code, emp_salary, emp_branch and also display contents/values of member variables."<<endl;
     Employee employee;
     cout << "Enter employee's name: ";

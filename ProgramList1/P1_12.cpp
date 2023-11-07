@@ -2,8 +2,8 @@
 #include <iostream>
 using namespace std;
 int main() {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P To Print Multiplication Table of a Number."<<endl;
     int num, i, j;
     cout << "Enter the number for multiplication table: ";

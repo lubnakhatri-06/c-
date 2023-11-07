@@ -19,8 +19,8 @@ class Student {
         }
 };
 int main(){
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P to create class student with data members name & age. Member function are get_details() and display_details(). Call both member functions using object of the class."<<endl;
     Student s1;
 //    s1.get_details();

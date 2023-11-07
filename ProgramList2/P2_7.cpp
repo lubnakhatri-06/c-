@@ -5,8 +5,8 @@ using namespace std;
 // Define an enum for days of the week
 enum Days {Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday};
 int main() {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P "<<endl;
     // Declare a variable of the enum type
     Days today = Tuesday;

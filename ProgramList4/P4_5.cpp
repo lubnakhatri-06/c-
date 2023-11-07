@@ -18,8 +18,8 @@ void displayStudentInfo(const Student& student) {
     cout << "Student Age: " << student.age << " years old" << endl;
 }
 int main() {
-    cout<<"NAME : MEET MAKADIYA"<<endl;
-    cout<<"ERNO : 220130318036"<<endl;
+    cout<<"NAME : mamad lubna"<<endl;
+    cout<<"ERNO : 220130318066"<<endl;
     cout<<"PROBLEM : WAC++P to demonstrate use of Returning Object as argument."<<endl;
     Student student1("John", 20);
     // Call the increaseAge function and return a new Student object
